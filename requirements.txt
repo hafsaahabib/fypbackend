@@ -1,0 +1,8 @@
+Flask
+flask-cors
+numpy
+nibabel
+opencv-python
+tensorflow
+requests
+pydicom
